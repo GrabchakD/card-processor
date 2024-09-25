@@ -1,0 +1,6 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ8×Î´²¡2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(‘ûë8ÜıŒ¦ 2
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(Ä‹å˜ıÿÿÿÿ8İıŒ¦ 2
